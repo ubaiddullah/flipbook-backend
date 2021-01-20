@@ -1,0 +1,4 @@
+{
+  "jwtKey": "flipbook_jwtKey",
+  "db": "flipbook_db"
+}
